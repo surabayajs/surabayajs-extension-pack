@@ -2,18 +2,22 @@
 
 <div align="center">
 
-[![version](https://badgen.net/vs-marketplace/v/surabayajs.surabayajs-extension-pack)][self]
-[![installs](https://badgen.net/vs-marketplace/i/surabayajs.surabayajs-extension-pack)][self]
-[![downloads](https://badgen.net/vs-marketplace/d/surabayajs.surabayajs-extension-pack)][self]
-[![license](https://badgen.net/github/license/grikomsn/vscode-extension-pack)][license]
+[![version](https://flat.badgen.net/vs-marketplace/v/surabayajs.surabayajs-extension-pack)][self]
+[![installs](https://flat.badgen.net/vs-marketplace/i/surabayajs.surabayajs-extension-pack)][self]
+[![downloads](https://flat.badgen.net/vs-marketplace/d/surabayajs.surabayajs-extension-pack)][self]
+[![license](https://flat.badgen.net/github/license/surabayajs/surabayajs-extension-pack)][license]
 
-[![config linux](https://badgen.net/badge/linux/settings.json/black)](./settings.json)
-[![config macos](https://badgen.net/badge/macos/settings.json/black)](./settings.json)
-[![config windows](https://badgen.net/badge/windows/settings.json/black)](./settings.json)
+[![config linux](https://flat.badgen.net/badge/linux/settings.json/black)](./settings.json)
+[![config macos](https://flat.badgen.net/badge/macos/settings.json/black)](./settings.json)
+[![config windows](https://flat.badgen.net/badge/windows/settings.json/black)](./settings.json)
 
 </div>
 
 ---
+
+## Recommended
+
+- JetBrains Mono font (<https://github.com/JetBrains/JetBrainsMono>)
 
 ## Requirements
 

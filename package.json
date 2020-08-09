@@ -2,7 +2,7 @@
   "displayName": "SurabayaJS Extension Pack",
   "name": "surabayajs-extension-pack",
   "description": "VS Code extension pack for general purpose web dev 🐊",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/surabayajs/surabayajs-extension-pack.git",
   "author": "SurabayaJS Maintainers <hello@surabayajs.org>",
   "publisher": "surabayajs",
