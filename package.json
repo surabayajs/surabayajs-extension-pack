@@ -1,0 +1,54 @@
+{
+  "displayName": "SurabayaJS Extension Pack",
+  "name": "surabayajs-extension-pack",
+  "description": "VS Code extension pack for general purpose web dev 🐊",
+  "version": "1.0.0",
+  "repository": "https://github.com/surabayajs/surabayajs-extension-pack.git",
+  "author": "SurabayaJS Maintainers <hello@surabayajs.org>",
+  "publisher": "surabayajs",
+  "homepage": "https://link.surabayajs.org/vscode",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "amatiasq.sort-imports",
+    "artdiniz.quitcontrol-vscode",
+    "bierner.markdown-preview-github-styles",
+    "christian-kohler.path-intellisense",
+    "codezombiech.gitignore",
+    "dakara.transformer",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "drKnoxy.eslint-disable-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "GitHub.github-vscode-theme",
+    "joelday.docthis",
+    "mikestead.dotenv",
+    "ms-vsliveshare.vsliveshare",
+    "piotrpalarz.vscode-gitignore-generator",
+    "PKief.material-icon-theme",
+    "Prisma.vscode-graphql",
+    "richie5um2.vscode-sort-json",
+    "silvenon.mdx",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "WallabyJs.quokka-vscode",
+    "wmaurer.change-case",
+    "yzhang.markdown-all-in-one",
+    "Zignd.html-css-class-completion"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#96D2AF",
+    "theme": "light"
+  },
+  "license": "MIT"
+}
