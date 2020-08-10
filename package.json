@@ -7,9 +7,6 @@
   "author": "SurabayaJS Maintainers <hello@surabayajs.org>",
   "publisher": "surabayajs",
   "homepage": "https://link.surabayajs.org/vscode",
-  "scripts": {
-    "publish": "vsce publish --yarn"
-  },
   "devDependencies": {
     "vsce": "^1.77.0"
   },
