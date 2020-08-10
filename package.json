@@ -8,7 +8,10 @@
   "publisher": "surabayajs",
   "homepage": "https://link.surabayajs.org/vscode",
   "scripts": {
-    "publish": "vsce publish"
+    "publish": "vsce publish --yarn"
+  },
+  "devDependencies": {
+    "vsce": "^1.77.0"
   },
   "engines": {
     "vscode": "^1.47.0"
